@@ -7,7 +7,7 @@ LG G2 LS980 Device Configuration for Broken OS
   <project path="device/lge/vs980" name="drgroovestarr/device_lge_vs980" remote="github" revision="m6.0" />
   <project path="device/lge/g2-common" name="drgroovestarr/device_lge_g2-common" remote="bb" revision="m6.0" />
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-13.0" />
-  <project path="kernel/lge/msm8974" name="drgroovestarr/lambda_kernel_lge_msm8974" remote="github" revision="esfinge" />
+  <project path="kernel/lge/msm8974" name="cannondalev2000/kernel_lge_msm8974" remote="github" revision="m6.0.1" />
   <project name="CyanogenMod/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" />
 
