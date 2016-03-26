@@ -4,7 +4,7 @@ LG G2 LS980 Device Configuration for Broken OS
 `./repo/local_manifests/broken_manifest.xml`
 ```
 <?xml version="1.0" encoding="UTF-8"?>
-  <project path="device/lge/ls980" name="drgroovestarr/device_lge_ls980" remote="github" revision="m6.0" />
+  <project path="device/lge/ls980" name="BrokenROM/device_lge_ls980" remote="github" revision="m6.0" />
   <project path="device/lge/g2-common" name="BrokenROM/device_lge_g2-common" remote="bb" revision="m6.0" />
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-13.0" />
   <project path="kernel/lge/msm8974" name="cannondalev2000/kernel_lge_msm8974" remote="github" revision="m6.0.1" />
